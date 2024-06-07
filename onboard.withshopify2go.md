@@ -18,7 +18,7 @@ The credentials consist of a client id and a client secret.
 async function authenticate() {
     const credentials = {
         client_id : "IfI1Y3lpFmTmCWXD7W5Ah4jTAuKWc2Gn",
-        client_secret : "bfYvKC2EVKgaY4OT2lKRW7PW7OLjr-AU8_IiHQ9eImhQGekosmUWKscbkCF8kuiu",
+        client_secret : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx-xzxxxxxxxxxxxxxxxxx",
         audience : "https://platform.linked2.io/api",
         grant_type : "client_credentials"
     }
