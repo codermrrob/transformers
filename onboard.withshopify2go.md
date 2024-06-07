@@ -90,7 +90,7 @@ Provide the product Id for the Shopify2Go product and we get given a stage confi
      "stageId": "a28e0000-3a2a-000d-c1a9-08d6973d8e3c",
      "customerName": "",
      "customerIdentifier": "",
-     "secret": "nwojMpuGtfxxzCnt9eCyU994wKlx8N7PFTxliXFO/uw=",
+     "secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
      "stageName": "Shopify2Go",
      "stageDescription": "This will be customers stage, configure with the customer name, etc.",
      "stageGroup": "shopify2Go" },
